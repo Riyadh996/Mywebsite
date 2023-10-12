@@ -1,5 +1,5 @@
 
-body, h1, h2, p, ul, li {
+body, h, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
@@ -10,15 +10,15 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color:yellowgreen;
+    color:rgb(241, 5, 5);
     text-align: center;
-    padding: 20px;
+    padding: 18px;
 }
 
 nav ul {
-    background-color: #444;
-    list-style: none;
+    background-color: grey;
+    list-style:square;
     text-align: center;
 }
 
@@ -29,7 +29,14 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: blue;
+}
+/* Style links (https://rditgroup.webnode.page/) */
+a {
+    text-decoration: none; /* Remove the default underline */
+    color: #0077b6; /* Change the link color */
+    font-weight: bold; /* Make the text bold */
+    /* You can add more styles as needed */
 }
 
 main {
