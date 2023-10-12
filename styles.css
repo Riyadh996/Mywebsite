@@ -70,27 +70,7 @@ body {
 
 footer {
     text-align: center;
-    background-color: #333;
-    color: #fff;
+    background-color: salmon;
+    color:violet;
     padding: 10px;
-}
-
-#content img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-}
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
-
-
-#content {
-    animation: fadeIn 1s ease-in-out;
 }
