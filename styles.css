@@ -35,7 +35,7 @@ nav a {
 main {
     width: 80%;
     margin: 20px auto;
-    background-color: #fff;
+    background-color:lightblue;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 body, img {
@@ -45,6 +45,7 @@ body, img {
 
 body {
     font-family: Arial, sans-serif;
+    text-align: center;
     background-color: #f0f0f0;
 }
 
@@ -63,7 +64,7 @@ body {
 
 .image img {
     max-width: 100%;
-    height: auto;
+    height: 250;
 }
 
 
