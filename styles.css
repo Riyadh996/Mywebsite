@@ -31,13 +31,6 @@ nav a {
     text-decoration: none;
     color: blue;
 }
-/* Style links (https://rditgroup.webnode.page/) */
-a {
-    text-decoration: none; /* Remove the default underline */
-    color: #0077b6; /* Change the link color */
-    font-weight: bold; /* Make the text bold */
-    /* You can add more styles as needed */
-}
 
 main {
     width: 80%;
